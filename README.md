@@ -2,8 +2,6 @@
 
 PyTorch implementation of speech embedding net and loss described here: https://arxiv.org/pdf/1710.10467.pdf.
 
-Also contains code to create embeddings compatible as input for the speaker diarization model found at https://github.com/google/uis-rnn
-
 ![training loss](https://github.com/HarryVolek/PyTorch_Speaker_Verification/blob/master/Results/Loss.png)
 
 The TIMIT speech corpus was used to train the model, found here: https://catalog.ldc.upenn.edu/LDC93S1,
